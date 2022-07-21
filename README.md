@@ -3,7 +3,7 @@ A voting system is implemented on blockchain using solidity as technology for th
 
 In order to sign the operations (transactions) it is necessary to have the wallet linked to our provider.
 
-Within the platform users can:
+In the platform users can:
 * Apply to become a candidate, entering their photo and required information.
 * Vote for a candidate.
 * Consult the number of votes for a candidate.
@@ -22,3 +22,11 @@ Some of the operations that the user performs within the platform require signat
 <img align="left" src="https://user-images.githubusercontent.com/58791994/179667921-939a575b-2147-48dd-a56f-4e66fe825ebe.png" alt="Principal" width="40%"/>
 <img align="center" src="https://user-images.githubusercontent.com/58791994/179668096-89b9cd4f-48cd-40c3-a951-e36f037dd7d3.png" alt="Home" width="40%"/>
 </div>
+
+### STACK TECNOLÓGICO
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._mdpsmNUZ05vQb-q09t3jAHaDc%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="REACT"> |
+31
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+32
+| CSS3  | Material UI  | HTML5  | JAVASCRIPT | REACT JS  | REDUX | 
