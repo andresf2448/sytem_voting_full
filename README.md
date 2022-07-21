@@ -21,7 +21,7 @@ Additionally, there is an admin who is in charge of opening the votes, closing t
 <img align="center" src="https://user-images.githubusercontent.com/58791994/179668096-89b9cd4f-48cd-40c3-a951-e36f037dd7d3.png" alt="Home" width="40%"/>
 </div>
 <br>
-Some of the operations that the user performs within the platform require signature through the metaMask provider since they are procedures that directly affect the blockchain.
+Some of the operations that the user performs in the platform require signature through the metaMask provider since they are procedures that directly affect the blockchain.
 
 ### STACK TECNOLÓGICO
 
