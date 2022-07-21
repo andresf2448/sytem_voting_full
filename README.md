@@ -31,6 +31,4 @@ Some of the operations that the user performs within the platform require signat
 | <img src="" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/180129122-fc1aa7a0-bc37-4835-8d51-94eafee5e23a.png" width="60" alt="CSS"> |
 | :------------: | :------------: |
 | ETHERS  | IPFS |
-![image](https://user-images.githubusercontent.com/58791994/180129924-17c5a026-e291-4e58-be09-29df1cb94ec9.png)
-https://user-images.githubusercontent.com/58791994/180129924-17c5a026-e291-4e58-be09-29df1cb94ec9.png
 
