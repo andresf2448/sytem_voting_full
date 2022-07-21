@@ -28,7 +28,5 @@ Some of the operations that the user performs within the platform require signat
 | <img src="https://user-images.githubusercontent.com/58791994/180129572-6e69e3ad-1d5b-471e-99be-f64caa372be2.png" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/180129122-fc1aa7a0-bc37-4835-8d51-94eafee5e23a.png" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="JS">  | <img src="https://user-images.githubusercontent.com/58791994/180129771-fbfbf5f5-f748-49de-a332-afdfbf1a4390.png" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://user-images.githubusercontent.com/58791994/180129924-17c5a026-e291-4e58-be09-29df1cb94ec9.png" width="60" alt="REACT"> |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 | MATAMASK  | CHAI  | CSS | SOLIDITY | REACT JS  | HARDHAT |
-| <img src="" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/180129122-fc1aa7a0-bc37-4835-8d51-94eafee5e23a.png" width="60" alt="CSS"> |
-| :------------: | :------------: |
+| <img src="https://user-images.githubusercontent.com/58791994/180130396-ad1b1bce-1479-4f19-bf84-d1c43f1a9e98.png" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/180130187-79d7b5cc-ebc7-42b3-abf1-d6ec743f0921.png" width="60" alt="CSS"> |
 | ETHERS  | IPFS |
-
