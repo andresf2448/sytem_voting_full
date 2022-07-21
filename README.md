@@ -25,6 +25,8 @@ Some of the operations that the user performs within the platform require signat
 
 ### STACK TECNOLÓGICO
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._mdpsmNUZ05vQb-q09t3jAHaDc%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="REACT"> |
+| <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://user-images.githubusercontent.com/58791994/180129122-fc1aa7a0-bc37-4835-8d51-94eafee5e23a.png)" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._mdpsmNUZ05vQb-q09t3jAHaDc%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="REACT"> |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| CSS3  | Material UI  | HTML5  | JAVASCRIPT | REACT JS  | REDUX |
+| Chai  | Material UI  | HTML5  | JAVASCRIPT | REACT JS  | REDUX |
+
+
