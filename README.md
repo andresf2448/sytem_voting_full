@@ -15,7 +15,7 @@ In the platform users can:
 </div>
 <br>
 Additionally, there is an admin who is in charge of opening the votes, closing them and generating the winner.
-<br>
+<br><br>
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/58791994/179667921-939a575b-2147-48dd-a56f-4e66fe825ebe.png" alt="Principal" width="40%"/>
 <img align="center" src="https://user-images.githubusercontent.com/58791994/179668096-89b9cd4f-48cd-40c3-a951-e36f037dd7d3.png" alt="Home" width="40%"/>
