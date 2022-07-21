@@ -13,7 +13,7 @@ In the platform users can:
 <img align="left" src="https://user-images.githubusercontent.com/58791994/179667171-a4c4ff49-5025-43ba-9123-eebd097dae8a.png" alt="Principal" width="40%"/>
 <img align="center" src="https://user-images.githubusercontent.com/58791994/179667537-0253f1ba-7616-4f6b-beed-3044b5ce472d.png" alt="Home" width="40%"/>
 </div>
-
+<br>
 Additionally, there is an admin who is in charge of opening the votes, closing them and generating the winner.
 
 <div>
