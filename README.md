@@ -25,8 +25,11 @@ Some of the operations that the user performs within the platform require signat
 
 ### STACK TECNOLÓGICO
 
-| <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://user-images.githubusercontent.com/58791994/180129122-fc1aa7a0-bc37-4835-8d51-94eafee5e23a.png)" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/180129122-fc1aa7a0-bc37-4835-8d51-94eafee5e23a.png" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="REACT"> |
+| <img src="" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/180129122-fc1aa7a0-bc37-4835-8d51-94eafee5e23a.png" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="REACT"> |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| Chai  | Material UI  | HTML5  | JAVASCRIPT | REACT JS  | REDUX |
+| MATAMASK  | CHAI  | CSS | SOLIDITY | REACT JS  | HARDHAT |
+| <img src="" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/180129122-fc1aa7a0-bc37-4835-8d51-94eafee5e23a.png" width="60" alt="CSS"> |
+| :------------: | :------------: |
+| ETHERS  | IPFS |
 
 
